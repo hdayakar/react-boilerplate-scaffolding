@@ -5,7 +5,7 @@ There are a couple of hurdles to starting a React app. The first is that node ca
 ### Setup
 To get started, create a new directory for your React app. Then, initialize your project with `npm init` and `git init`. 
 In your new project folder, create the following structure
-```js
+```
 .
 +-- public
 +-- src
@@ -123,7 +123,7 @@ Let’s add a really simple stylsheet to the src directory. Create App.css in sr
 ```
 
 project structure should look like the following.
-```js
+```
 .
 +-- public
 | +-- index.html
